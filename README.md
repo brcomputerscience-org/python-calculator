@@ -1,2 +1,3 @@
-# python-calculator
+# Basic Calculator in Python
+
 BRCS Teaching Example
